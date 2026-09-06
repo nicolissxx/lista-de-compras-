@@ -21,7 +21,6 @@ Um sistema web desenvolvido em PHP para organizar listas de compras.
 1. Tenha um servidor local instalado (**WampServer**).
 2. Baixe os arquivos .RAR -> acesse o disco local -> localize as pastas wamp -> www -> e adicione a pasta PI.
 3. Inicie o Apache 
-   <img width="227" height="326" alt="Captura de tela 2026-09-06 140432" src="https://github.com/user-attachments/assets/164e80d7-f85d-465a-b284-996eea13889a" />
 4. Acesse pelo navegador: `http://localhost/phpmyadmin`
    <img width="1599" height="899" alt="Captura de tela 2026-09-06 140616" src="https://github.com/user-attachments/assets/e403d592-c36f-495e-847c-eb6eddad80c0" />
 4. Crie o BD ´lista_compras´ no MySQL
