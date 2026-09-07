@@ -1,9 +1,10 @@
 # Lista de Compras
 
 Integrantes: 
-* Nicoli
+* NICOLI MATIAS GUIDONI - Responsável pelo Frontend e Banco de dados 
+* ANTONIO DE PADUA PEIXOTO JUNIOR - Responsável pelo Backend e Banco de dados
 
-Um sistema web desenvolvido em PHP para organizar listas de compras.
+Com base na primeira parte do projeto optamos por desenvolver um sistema web utilizando PHP integrado com HTML e CSS para organizar listas de compras. 
 
 ## Tecnologias 
 * **PHP** (Backend)
